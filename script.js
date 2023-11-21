@@ -1,4 +1,3 @@
-// script.js
 function addTask() {
     const taskInput = document.getElementById("taskInput");
     const taskDetails = document.getElementById("taskDetails");
